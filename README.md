@@ -5,16 +5,27 @@ Este projeto consiste em um sistema de gerenciamento de estoque simples e funcio
 🚀 Funcionalidades principais
 
 ✅ Cadastro de produtos com verificação de código único.
+
 ✅ Carregamento automático de um estoque inicial pré-definido.
+
 ✅ Listagem completa dos produtos cadastrados.
+
 ✅ Ordenação dos produtos por quantidade (crescente/decrescente).
+
 ✅ Busca de produtos por nome ou código.
+
 ✅ Remoção de produtos do estoque.
+
 ✅ Exibição de produtos sem estoque ou com estoque abaixo de uma quantidade mínima.
+
 ✅ Atualização de quantidade de produtos (aumentar/diminuir).
+
 ✅ Alteração de preços de venda com validações de custo.
+
 ✅ Cálculo do valor total do estoque.
+
 ✅ Cálculo do lucro presumido.
+
 ✅ Geração de um relatório geral com custo e faturamento total.
 
 
